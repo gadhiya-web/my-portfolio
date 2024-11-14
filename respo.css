@@ -1,0 +1,257 @@
+.container
+{
+    padding: 0 10px;
+}
+
+@media screen and (min-width:300px) and (max-width:320px) {
+
+    /* nav-start */
+    .nav-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .nav-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .nav-1-1
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-1-2
+    {
+        width: 100%;
+    }
+
+    .btns
+    {
+        flex-wrap: wrap;
+        display: none;
+    }
+    /* nav-end */
+
+    /* header-start */
+    .header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1-1
+    {
+        width: 100%;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .header-1-1 p
+    {
+        width: 100%;
+    }
+
+    .icon
+    {
+        justify-content: center;
+    }
+
+    .header-1-2
+    {
+        width: 300px;
+        height: 300px;
+        position: relative;
+        bottom: 28%;
+    }
+
+    .header-1-1-1-1 ul
+    {
+        flex-wrap: wrap;
+    }
+    
+    .header-1-2:hover
+    {
+        width: 300px;
+        height: 300px;
+    }
+
+    .header-1-1-1-1 li a
+    {
+        top: 320px;
+        left: 130px;
+    }
+    /* header-end */
+
+    /* new page start */
+
+    /* hob-start */
+    .hob-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .hob-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .hob-1-2
+    {
+        position: relative;
+        left: 0;
+    }
+
+    .hob-1-2
+    {
+        width: 100%;
+    }
+
+    .hob-1-1
+    {
+        width: 100%;
+    }
+
+    .header-1-1-1-2
+    {
+        margin-left: 115px;
+    }
+
+    .hob-1-1
+    {
+        left: 0;
+    }
+    /* hob-end */
+
+    /* new page end */
+
+}
+
+@media screen and (min-width:310px) and (max-width:375px) {
+
+    /* nav-start */
+    .nav-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .nav-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .nav-1-1
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-1-2
+    {
+        width: 100%;
+    }
+
+    .btns
+    {
+        flex-wrap: wrap;
+        display: none;
+    }
+    /* nav-end */
+
+    /* header-start */
+    .header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1-1
+    {
+        width: 100%;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .header-1-1 p
+    {
+        width: 100%;
+    }
+
+    .icon
+    {
+        justify-content: center;
+    }
+
+    .header-1-2
+    {
+        width: 300px;
+        height: 300px;
+        position: relative;
+        bottom: 10%;
+    }
+
+    .header-1-1-1-1 ul
+    {
+        flex-wrap: wrap;
+    }
+    
+    .header-1-2:hover
+    {
+        width: 300px;
+        height: 300px;
+    }
+
+    .header-1-1-1-1 li a
+    {
+        top: 0px;
+        left: 125px;
+    }
+    /* header-end */
+
+    /* new page start */
+
+    /* hob-start */
+    .hob-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .hob-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .hob-1-2
+    {
+        position: relative;
+        left: 0;
+    }
+
+    .hob-1-2
+    {
+        width: 100%;
+    }
+
+    .hob-1-1
+    {
+        width: 100%;
+    }
+
+    .hob-1-1
+    {
+        left: 0;
+    }
+    /* hob-end */
+
+    /* new page end */
+
+}
